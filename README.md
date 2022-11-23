@@ -14,3 +14,7 @@ ejs
 passport
 pasport local mongoose
 passport google oauth
+
+Checkout this app here: https://excited-bear-kit.cyclic.app/
+
+some functionalities might not work due to sever issues.
